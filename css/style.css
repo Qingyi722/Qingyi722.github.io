@@ -123,7 +123,7 @@ body,
   height: 100%;
 }
 body {
-  background: #1653A6;
+  background: #5a8c6d;
   font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-text-size-adjust: 100%;
 }
@@ -174,7 +174,7 @@ body {
   -ms-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
   z-index: 1;
-  background: #1653A6;
+  background: #5a8c6d;
 }
 .mobile-nav-on #wrap {
   left: 280px;
@@ -195,7 +195,7 @@ body {
 .article-inner,
 #comments,
 .widget-wrap-info .widget-wrap-info-img {
-  background-color: #1653A6;
+  background-color: #5a8c6d;
   -webkit-box-shadow: 5px 5px 10px #13478d, -5px -5px 10px #195fbf;
   box-shadow: 5px 5px 10px #13478d, -5px -5px 10px #195fbf;
   border-radius: 10px;
@@ -301,7 +301,7 @@ body {
 #header {
   height: banner-height;
   position: relative;
-  background: #1653A6;
+  background: #5a8c6d;
 }
 #header-outer {
   height: 100%;
@@ -650,9 +650,9 @@ a.article-title:hover {
   color: #F0F0F0;
   text-decoration: none;
   border-radius: 4px;
-  background: #1653A6;
-  -webkit-box-shadow: inset 2px 2px 4px #13478d, inset -2px -2px 4px #1653A6;
-  box-shadow: inset 2px 2px 4px #13478d, inset -2px -2px 4px #1653A6;
+  background: #5a8c6d;
+  -webkit-box-shadow: inset 2px 2px 4px #13478d, inset -2px -2px 4px #5a8c6d;
+  box-shadow: inset 2px 2px 4px #13478d, inset -2px -2px 4px #5a8c6d;
 }
 .article-more-link a:hover {
   text-decoration: none;
@@ -839,7 +839,7 @@ a.article-title:hover {
 }
 #page-nav {
   margin: 50px auto;
-  background: #1653A6;
+  background: #5a8c6d;
   -webkit-box-shadow: 5px 5px 10px #13478d, -5px -5px 10px #195fbf;
   box-shadow: 5px 5px 10px #13478d, -5px -5px 10px #195fbf;
   border-radius: 3px;
@@ -891,10 +891,10 @@ a.article-title:hover {
   font-weight: bold;
 }
 #page-nav .space {
-  color: #1653A6;
+  color: #5a8c6d;
 }
 #footer {
-  background: #1653A6;
+  background: #5a8c6d;
   padding: 50px 0;
   color: #F0F0F0;
 }
@@ -915,7 +915,7 @@ a.article-title:hover {
   margin: 0 -20px;
   padding: 15px 20px;
   border-style: solid;
-  border-color: #1653A6;
+  border-color: #5a8c6d;
   border-width: 1px 0;
   overflow: auto;
   color: #4d4d4c;
@@ -932,7 +932,7 @@ a.article-title:hover {
 }
 .article-entry code {
   background: #E3C36F;
-  color: #1653A6;
+  color: #5a8c6d;
   font-weight: 700;
   border-radius: 3px;
   padding: 0.1em 0.5em;
@@ -986,7 +986,7 @@ a.article-title:hover {
 .article-entry .gist {
   margin: 0 -20px;
   border-style: solid;
-  border-color: #1653A6;
+  border-color: #5a8c6d;
   border-width: 1px 0;
   background: #fff;
   padding: 15px 20px 15px 0;
@@ -1092,7 +1092,7 @@ pre .javascript .function {
     left: 0;
     width: 280px;
     height: 100%;
-    background: #1653A6;
+    background: #5a8c6d;
     border-right: 1px solid #fff;
   }
 }
@@ -1120,7 +1120,7 @@ pre .javascript .function {
   margin: 50px 0;
   padding: 15px;
   border-radius: 10px;
-  background: #1653A6;
+  background: #5a8c6d;
   -webkit-box-shadow: inset 5px 5px 10px #13478d, inset -5px -5px 10px #195fbf;
   box-shadow: inset 5px 5px 10px #13478d, inset -5px -5px 10px #195fbf;
 }
